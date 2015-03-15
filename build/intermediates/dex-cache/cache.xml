@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/reneeslamka/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-f2b76bd9b9ffbc854ac0e2c9de38387c0ce5e6ac.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/classes-138307f560579dcf60e797edfd0a44fc6286762e.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.2.1/485b52379ebb3ca5d0e3bfbce2a16129e9a041de/firebase-client-jvm-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="485b52379ebb3ca5d0e3bfbce2a16129e9a041de">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.2.1-d4a9512f06a0618f2c7448c9559515db9eef27d3.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e0b19aa61fbdcbef287f30b69503760dd3e825ef.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/classes-8ddeae0eddda157a85df5decd3c64280bf867a78.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.2.1/4cc2dc4c178fe50d942264aff3749cad783c2e83/firebase-client-android-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cc2dc4c178fe50d942264aff3749cad783c2e83">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.2.1-f49f9608a549dbd317b720941aad85d0e99d1c52.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/classes-c7e003b6d57de149a39e82b1d1c85b0ef7f55b29.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-4785299501f19d36a085cc2e5bde5cfddb89172d.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-1bb95be7551acc1759d3076f8b8ab620fa534f92.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-5c5a25f75d12af865fe3d075150ce1f432c872bf.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-b881a4b220956f8a4a12c244a24e8edb96b69936.jar" />
+    </item>
+    <item
+        jar="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/libs/native-libs.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="/Users/reneeslamka/Documents/myoNew/FallingMyo/app/build/intermediates/pre-dexed/debug/native-libs-50207ad6c39f0358cd266b8a62ae6d393cfb848a.jar" />
+    </item>
+
+</items>

@@ -1,2 +1,2 @@
 # FallingMyoApp
-FOr NW Hacks
+For NW Hacks
